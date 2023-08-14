@@ -10,7 +10,8 @@ function Header() {
           textAlign: 'center',
         }}
       >
-        <h1>Todos</h1>
+        <h1>
+          Todos</h1>
         <h4>Items will presist in the browser local storage</h4>
         </header>
     );
